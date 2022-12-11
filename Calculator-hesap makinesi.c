@@ -1,4 +1,3 @@
-// Program to create a simple calculator
 #include <stdio.h>
 
 int main() {

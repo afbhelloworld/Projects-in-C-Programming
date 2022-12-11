@@ -7,7 +7,7 @@ int main() {
         for(int i =0; i<3;i++){
         for(int j =0; j<5;j++){
            if(tablo[i][j]==6){
-           	 printf("%d.satir  %d.sutun  ",i+1,j+1);
+           	 printf("%d.row  %d.column  ",i+1,j+1);//satýr sütun
            	
 		   }
 		}}
