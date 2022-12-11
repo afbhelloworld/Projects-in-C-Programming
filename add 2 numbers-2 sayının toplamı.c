@@ -7,8 +7,8 @@ int main() {
 	int a =9;
 	int b = 8;
 	 
-    int	toplam = a+b;
+    int	sum = a+b;//9 + 8 toplam
     
-    printf("\n%i", toplam);
+    printf("\n%i", sum);
 		return 0;
 }
