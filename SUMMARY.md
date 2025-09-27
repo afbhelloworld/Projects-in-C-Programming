@@ -11,4 +11,4 @@
           kind: openapi
           spec: gitbook-petstore
     ```
-* [Page](page.md)
+* [chatbot](chatbot.md)
